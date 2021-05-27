@@ -38,6 +38,9 @@ export default function Home() {
           >
             <h2>Examples &rarr;</h2>
             <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <span className={styles.logo}>
+            <Image src="/flags/svg/250-brazil.svg" alt="Bandeira Brasil" width={172} height={116} />
+          </span>
           </a>
 
           <a
