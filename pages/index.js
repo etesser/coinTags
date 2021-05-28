@@ -37,9 +37,9 @@ export default function Home() {
           >
             <h2>Examples &rarr;</h2>
             <p>Discover and deploy boilerplate example Next.js projects.</p>
-            <span className={styles.logo}>
-            <Image src="/flags/svg/250-brazil.svg" alt="Bandeira Brasil" width={172} height={116} />
-          </span>
+              <span className={styles.logo}>
+              <Image src="/flags/svg/250-brazil.svg" alt="Bandeira Brasil" width={172} height={116} />
+              </span>
           </a>
 
           <a
@@ -56,7 +56,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         
-          Desenvolvido por{' '}
+          Desenvolvido por Edinho utilizando 
           <span className={styles.logo}>
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span>
